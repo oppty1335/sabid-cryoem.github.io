@@ -68,11 +68,11 @@ title: People
 <h4 class="post-title"><u>Student</u></h4>
 <table>
     <tbody>
-        <tr>
+        <!--tr>
             <td>
             ▪ Shu-Cheng Zheng
             </td>
-        </tr>
+        </tr-->
     </tbody>
 </table>
 <br>
@@ -118,5 +118,11 @@ title: People
             <td>▪ <a href="https://www.ibc.sinica.edu.tw/people/investigators/principal-investigators/yu-ling-shih/">Yu-Ling Shih</a></td>
             <td>       Institute of Biological Chemistry, Academia Sinica</td>
         </tr>
+        <tr>
+            <td>
+            ▪ Shu-Cheng Zheng
+            </td>
+        </tr>
+        
     </tbody>
 </table>
