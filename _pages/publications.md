@@ -28,7 +28,7 @@ news: true
 
 
 <h3>
-  <a href="https://academic.oup.com/mam/article/27/S1/3216/6888127">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9506045">
     Cryo-Ralib - A Modular Library for Accelerating Alignment in CRYO-EM
   </a>
 </h3>
